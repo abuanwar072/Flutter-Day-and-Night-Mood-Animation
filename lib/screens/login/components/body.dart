@@ -27,6 +27,7 @@ class _BodyState extends State<Body> {
         gradient: LinearGradient(
           begin: Alignment.topCenter,
           end: Alignment.bottomCenter,
+          colors: lightBgColors,
         ),
       ),
       child: Stack(
