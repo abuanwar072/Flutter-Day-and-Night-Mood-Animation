@@ -1,16 +1,16 @@
-# animation
+# Day and Night Mood Animation - Flutter Animation
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/uS_SoJWzRXY)
 
-## Getting Started
+**Packages we are using:**
 
-This project is a starting point for a Flutter application.
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In this flutter animation video, we fully focused on animation so we already provide our full UI in the starting section. We always try to provide a simple way of doing stuff and We just use AnimatedContainer and AnimatedPosition for building this animation, with no complex animation controller.  Hope you like it👍.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Preview
+
+![Preview](/intro.gif)
+
+![App UI](/ui.png)
